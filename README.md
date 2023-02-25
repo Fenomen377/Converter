@@ -5,7 +5,7 @@
 $ git clone https://github.com/Fenomen377/Converter.git
 $ cd django-converter-app/
 $ pip install -r requirements.txt
-$ cd app/
+$ cd Converter/
 $ ./manage.py migrate
 $ ./manage.py runserver
 ```
